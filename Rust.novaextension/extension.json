@@ -2,7 +2,7 @@
   "identifier": "xyz.valknight.rust",
   "name": "Rust 3 (??)",
   "organization": "Val Knight",
-  "description": "Rust language support for Nova featuring Rust Analyzer, syntax definitions, and format on save. Now maintained with less AI!",
+  "description": "Rust language support for Nova featuring Rust Analyzer, syntax definitions, and format on save. Light fork maintained by Val Knight",
   "repository": "https://github.com/valknight/nova-rust-2",
   "bugs": "https://github.com/valknight/nova-rust-2/issues",
   "license": "MIT",
