@@ -1,3 +1,9 @@
+## Version 2.5.2
+
+### Changed
+
+- Better messaging when the extension terminates, to help first time users. If you want to contribute, I'd love to improve this further! (65eb90dca7297462af71a269f368633db05d7034)
+
 ## Version 2.5.0
 
 ### New

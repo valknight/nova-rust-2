@@ -6,7 +6,7 @@
   "repository": "https://github.com/valknight/nova-rust-2",
   "bugs": "https://github.com/valknight/nova-rust-2/issues",
   "license": "MIT",
-  "version": "2.5.0",
+  "version": "2.5.2",
   "categories": ["languages", "formatters"],
   "min_runtime": "13.0",
 
