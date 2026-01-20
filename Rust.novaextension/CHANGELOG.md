@@ -2,7 +2,7 @@
 
 ### New
 
-- Fork of the extension! Now hosted by `valknight` (a144637c197572b39b190b436780ad1a52bd0c12)
+- Fork of the extension! Now hosted by `valknight` (de5968144fd3a0cf0af60f995cce1b39601e8cd7)
 
 ### Fixed
 
