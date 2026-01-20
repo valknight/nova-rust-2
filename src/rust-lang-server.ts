@@ -83,7 +83,7 @@ export class RustLanguageServer {
     // The Rust Analyzer binary won't exist when extension is first run
     // after installing.
     if (!nova.fs.access(path, nova.fs.F_OK + nova.fs.X_OK)) {
-      console.log('Rust Analyzer binary not found. Aborting start process.');
+      console.log('Rust Analyzer binary not found. Aborting start process. If this is your first time using the Rust extension - be patient! Rust Analyzer may well be downloading in the background! I hope to improve the indicator of this in future.');
       return;
     }
 
