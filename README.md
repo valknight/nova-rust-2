@@ -18,7 +18,7 @@ This particular extension is a descendant of [the original Nova Rust extension][
 
 ## Users
 
-Nova users can install this extension from Nova's [Extension Library](https://extensions.panic.com/), available within the app. More information for users is available in the [extension details](https://github.com/valknight/nova-rust-2/blob/main/Rust.novaextension/README.md).
+Nova users can install this extension from Nova's [Extension Library](https://extensions.panic.com/), available within the app. More information for users is available in the [extension details](./Rust.novaextension/README.md).
 
 ## Developers
 
