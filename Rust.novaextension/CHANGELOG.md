@@ -1,3 +1,13 @@
+## Version 2.5.0
+
+### New
+
+- Fork of the extension! Now hosted by `valknight` (a144637c197572b39b190b436780ad1a52bd0c12)
+
+### Fixed
+
+- Fixed failure to download `rust-analzer` binary on startup (91d7038e73e8ddb14f844c064dc9cb14d58c9f18)
+
 ## Version 2.4.0
 
 ### New

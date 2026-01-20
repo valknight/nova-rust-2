@@ -46,7 +46,7 @@ This project depends on the `tree-sitter-rust` project, so you'll need to pull d
 - When cloning:
 
   ```sh
-  git clone --recurse-submodules https://github.com.chriskrycho/nova-rust
+  git clone --recurse-submodules https://github.com/valknight/nova-rust-2
   ```
 
 - After cloning:
